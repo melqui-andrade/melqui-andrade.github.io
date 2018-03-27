@@ -14,4 +14,4 @@ You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
 
-{% include image name="melqui.jpg" caption="Sharing my blog on LinkedIn" %}
+{% include melqui-icon.html username="melqui" %}
