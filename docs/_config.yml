@@ -21,9 +21,9 @@
 title: Melqui Portifolio
 email: melqui.inbox@gmail.com.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Articles about software automation tests, algorithms, programming issues and so on.
+  Here you can see solutions for web systems, automation, data science and everything I like
+  to discuss. Using Java and Python mainly to show solutions.
 baseurl: "/melqui-andrade/melqui-andrade.github.io" # the subpath of your site, e.g. /blog
 url: "https://melqui-andrade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: melquiandrade1
